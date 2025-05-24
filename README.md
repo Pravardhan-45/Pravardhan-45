@@ -13,7 +13,7 @@ I'm passionate about:
 
 ## 🧠 What I'm Doing Now
 
-- 🎓 Final-year **B.Tech CSE student** at G. Pulla Reddy Engineering College  
+- 🎓 Going to Final-year **B.Tech CSE student** at G. Pulla Reddy Engineering College  
 - 🔹 Working as a **Co-Team Lead (SDE)** at **Bluestock Fintech Internship**  
 - 🔹 Learning and building with **React**, **TensorFlow**, full-stack tools
 

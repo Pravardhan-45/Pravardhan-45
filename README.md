@@ -26,7 +26,7 @@ I'm passionate about:
 - 🤖 [**AI Doctor**](https://github.com/Pravardhan-45/ai-doctor)  
   A voice-based assistant that suggests medical responses using OpenAI + Gradio
 
-- 💬 [**Sentiment Analyzer**](https://github.com/Pravardhan-45/sentiment-analysis)  
+- 💬 [**Sentiment Analyzer**](https://github.com/Pravardhan-45/codtech-task2)  
   Classifies customer reviews using TF-IDF and Logistic Regression
 
 - 🎫 [**Ticket Booking System**](https://github.com/Pravardhan-45/TicketBookingSystem)  

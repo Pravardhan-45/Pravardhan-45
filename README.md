@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Pravardhan  
 💻 Developer | Competitive Programmer | AI Enthusiast | Full Stack Learner  
-🚀 Turning ideas into solutions through coding
+🚀 Turning ideas into solutions through coding 
 
 ---
 
@@ -13,9 +13,8 @@ I'm passionate about:
 
 ## 🧠 What I'm Doing Now
 
-- 🎓 Going to Final-year **B.Tech CSE student** at G. Pulla Reddy Engineering College  
-- 🔹 Working as a **Co-Team Lead (SDE)** at **Bluestock Fintech Internship**  
-- 🔹 Learning and building with **React**, **TensorFlow**, full-stack tools
+- 🎓 Final-year **B.Tech CSE student** at G. Pulla Reddy Engineering College  
+- 🔹 Learning and building full-stack tools.
 
 ---
 
@@ -27,9 +26,11 @@ I'm passionate about:
 - 🤖 [**AI Doctor**](https://github.com/Pravardhan-45/ai-doctor)  
   A voice-based assistant that suggests medical responses using OpenAI + Gradio
 
-- 💬 Sentiment Analyzer – Analyzes customer reviews using TF-IDF + Logistic Regression
+- 💬 [**Sentiment Analyzer**](https://github.com/Pravardhan-45/sentiment-analysis)  
+  Classifies customer reviews using TF-IDF and Logistic Regression
 
-- 🔢 Digit Classifier – A CNN model trained on MNIST, achieving 99% test accuracy
+- 🎫 [**Ticket Booking System**](https://github.com/Pravardhan-45/TicketBookingSystem)  
+  A Java Swing GUI app that simulates real-time ticket booking with seat tracking
 
 ---
 
@@ -43,9 +44,9 @@ I'm passionate about:
 
 ## 📊 Competitive Programming Profiles
 
-- 🟢 **LeetCode** – [400+ problems solved](https://leetcode.com/u/pravardhan_100/)
+- 🟢 **LeetCode** – [400+ problems solved](https://leetcode.com/u/pravardhan45/)
 - 💥 **Codeforces** – [Max rating: 1170](https://codeforces.com/profile/pravardhan_45)
-- 🎯 **GeeksforGeeks** – [Institute Rank 11](https://www.geeksforgeeks.org/user/pravardhanaar/)
+- 🎯 **GeeksforGeeks** – [Institute Rank 10](https://www.geeksforgeeks.org/user/pravardhanaar/)
 
 ---
 
@@ -58,7 +59,7 @@ I'm passionate about:
 
 ## ⚡ Fun Fact
 
-I led my school as **SPL (School Pupil Leader)** for 2 years — and I still run in leadership mode 🏃‍♂️💯
+I led my school as **SPL (School Pupil Leader)** for 2 years — and I still run in leadership mode by class committee member in BTech🏃‍♂️💯
 
 ---
 

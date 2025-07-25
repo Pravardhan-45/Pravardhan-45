@@ -16,7 +16,7 @@ I'm passionate about:
 ## 🧠 What I'm Doing Now
 
 - 🎓 Final-year **B.Tech CSE student** at G. Pulla Reddy Engineering College  
-- 📘 Exploring **Core CS Subjects**: OS, DBMS, CN, OOPs, and DSA deeply  
+- 📘 Exploring **Core CS Subjects**: OS, DBMS, CN, OOPs, and DSA 
 
 ---
 

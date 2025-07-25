@@ -1,6 +1,8 @@
 # 👋🏻 Hi, I'm Pravardhan  
+![Profile Views](https://komarev.com/ghpvc/?username=Pravardhan-45&label=Profile%20views&color=0e75b6&style=flat)
+
 💻 Developer | Competitive Programmer | AI Enthusiast | Full Stack Learner  
-🚀 Turning ideas into solutions through coding 
+🚀 Turning ideas into solutions through code
 
 ---
 
@@ -14,11 +16,11 @@ I'm passionate about:
 ## 🧠 What I'm Doing Now
 
 - 🎓 Final-year **B.Tech CSE student** at G. Pulla Reddy Engineering College  
-- 🔹 Learning and building full-stack tools.
+- 📘 Exploring **Core CS Subjects**: OS, DBMS, CN, OOPs, and DSA deeply  
 
 ---
 
-## 💼 Projects :-
+## 💼 Projects
 
 - 🔍 [**OCR Recognition**](https://github.com/Pravardhan-45/ocr-recognition)  
   A real-time browser tool that extracts text from images using Tesseract.js
@@ -26,7 +28,7 @@ I'm passionate about:
 - 🤖 [**AI Doctor**](https://github.com/Pravardhan-45/ai-doctor)  
   A voice-based assistant that suggests medical responses using OpenAI + Gradio
 
-- 💬 [**Sentiment Analyzer**](https://github.com/Pravardhan-45/codetech-task2)
+- 💬 [**Sentiment Analyzer**](https://github.com/Pravardhan-45/codetech-task2)  
   Classifies customer reviews using TF-IDF and Logistic Regression
 
 - 🎫 [**Ticket Booking System**](https://github.com/Pravardhan-45/TicketBookingSystem)  
@@ -42,11 +44,11 @@ I'm passionate about:
 
 ---
 
-## 📊 Competitive Programming Profiles
+## 📊 DSA Profiles
 
-- 🟢 **LeetCode** – [400+ problems solved](https://leetcode.com/u/pravardhan45/)
+- 🟢 **LeetCode** – [500+ problems solved](https://leetcode.com/u/pravardhan45/)
 - 💥 **Codeforces** – [Max rating: 1170](https://codeforces.com/profile/pravardhan_45)
-- 🎯 **GeeksforGeeks** – [Institute Rank 10](https://www.geeksforgeeks.org/user/pravardhanaar/)
+- 🎯 **GeeksforGeeks** – [Institute Rank 9](https://www.geeksforgeeks.org/user/pravardhanaar/)
 
 ---
 
@@ -59,7 +61,7 @@ I'm passionate about:
 
 ## ⚡ Fun Fact
 
-I led my school as **SPL (School Pupil Leader)** for 2 years — and I still run in leadership mode by class committee member in BTech🏃‍♂️💯
+I led my school as **SPL (School Pupil Leader)** for 2 years — and I still run in leadership mode by class committee member in BTech 🏃‍♂️💯
 
 ---
 
@@ -67,7 +69,7 @@ I led my school as **SPL (School Pupil Leader)** for 2 years — and I still run
 
 - 📚 DSA & Problem Solving  
 - 💻 Web Development & Projects  
-- 🏫 B.Tech Concepts and Core CS Subjects
+- 🧠 Core CS Subjects like OS, DBMS, CN, OOPs
 
 ---
 

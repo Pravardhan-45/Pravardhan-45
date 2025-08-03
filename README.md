@@ -20,6 +20,19 @@ I'm passionate about:
 
 ---
 
+## 🧳 Internship Experience
+
+- **Software Development Intern – Fintech Startup**  
+  *Jan 2024 – Apr 2024 | Remote*  
+  - Built and maintained a responsive **IPO web application**  
+  - Worked on **Node.js backend** with **RESTful APIs** to handle IPO listing and data flows  
+  - Used **PostgreSQL** for data storage and implemented complex queries with performance optimizations  
+  - Ensured real-time data updates for IPO entries using dynamic routing and pagination  
+  - Followed **Agile methodology**, collaborated in sprints using tools like Trello/GitHub Projects  
+
+  
+---
+
 ## 💼 Projects
 
 - 🔍 [**OCR Recognition**](https://github.com/Pravardhan-45/ocr-recognition)  

@@ -23,7 +23,7 @@ I'm passionate about:
 ## 🧳 Internship Experience
 
 - **Software Development Intern – Fintech Startup**  
-  *Jan 2024 – Apr 2024 | Remote*  
+  *May 2025 – June 2025 | Remote*  
   - Built and maintained a responsive **IPO web application**  
   - Worked on **Node.js backend** with **RESTful APIs** to handle IPO listing and data flows  
   - Used **PostgreSQL** for data storage and implemented complex queries with performance optimizations  

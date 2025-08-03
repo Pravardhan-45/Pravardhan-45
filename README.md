@@ -28,7 +28,7 @@ I'm passionate about:
   - Worked on **Node.js backend** with **RESTful APIs** to handle IPO listing and data flows  
   - Used **PostgreSQL** for data storage and implemented complex queries with performance optimizations  
   - Ensured real-time data updates for IPO entries using dynamic routing and pagination  
-  - Followed **Agile methodology**, collaborated in sprints using tools like Trello/GitHub Projects  
+  - Followed **Agile methodology**
 
   
 ---
